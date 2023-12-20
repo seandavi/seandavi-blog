@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 752e6c14-5676-4e81-be33-f8654668af36
+      url: 'https://thriving-twilight-891bb6.netlify.app'
