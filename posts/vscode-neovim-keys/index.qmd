@@ -1,0 +1,21 @@
+---
+title: "VSCode key bindings, including neovim bindings"
+author: seandavi
+date: "2023-12-20"
+categories: ["programming"]
+---
+
+<!-- insert a two-column markdown table -->
+
+| Key | Action |
+|---|-----|
+| `cmd-shift-p` | fuzzy find any installed action by description |
+| `cmd-p` | fuzzy find file |
+| `cmd-b` | toggle the left sidebar (in whatever context it was last in) |
+| `cmd-shift-e` | show the current file in the left sidebar |
+| `cmd-0` | move context/focus to the left sidebar |
+| `cmd-1` | move context/focus to the editor |
+| `cmd-2` | move context/focus to the right editor (or open an editor split, if not yet split) |
+| `ctrl-1,...9` | highlight Nth tab from the left |
+| `ctrl-0` | highlight rightmost tab |
+| ``ctl-` `` | toggle the terminal |
