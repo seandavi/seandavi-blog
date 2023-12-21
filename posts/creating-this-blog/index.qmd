@@ -1,11 +1,11 @@
 ---
 title: "Creating this blog using Quarto, Github, and Netlify"
+image: image.png
 author: seandavi
 date: 2023-12-20
 ---
 
-This blog uses the [Quarto](https://quarto.org) static site generator to create a blog that is hosted on [Github](https://github.com) and deployed using [Netlify](https://netlify.com).  
-The source for this blog is available at [github](https://github.com/seandavi/seandavi-blog).
+This blog uses the [Quarto](https://quarto.org) static site generator to create a blog that is hosted on [Github](https://github.com) and deployed using [Netlify](https://netlify.com). The source for this blog is available at [github](https://github.com/seandavi/seandavi-blog).
 
 In short, the process is:
 

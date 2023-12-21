@@ -1,11 +1,12 @@
 ---
 title: "VSCode key bindings, including neovim bindings"
+image: image.png
 author: seandavi
 date: "2023-12-20"
 categories: ["programming"]
 ---
 
-<!-- insert a two-column markdown table -->
+I use [VSCode](https://code.visualstudio.com/) and the [neovim plugin](https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim) for coding. This is a list of key bindings that I use frequently.
 
 | Key | Action |
 |---|-----|
