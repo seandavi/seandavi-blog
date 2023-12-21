@@ -1,6 +1,10 @@
 ---
 title: "Prompt design and Retrieval-Augmented Generation"
-author: seandavi
+author:
+- name: "ChatGPT"
+  url: "https://chatgpt.com"
+  affiliations: ["ChatGPT"]
+- name: seandavi
 date: 2023-12-21
 categories:
     - llm
@@ -9,6 +13,8 @@ categories:
 ---
 
 Retrieval-Augmented Generation (RAG) is a technique that combines the benefits of pre-trained language models with the vast amounts of knowledge contained in large-scale datasets or corpora. It retrieves relevant documents or data points to inform the generation process, thereby producing more accurate and contextually relevant responses.
+
+This article was written with the help of ChatGPT. 
 
 ## Prompt design
 
